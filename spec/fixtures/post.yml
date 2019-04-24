@@ -1,0 +1,8 @@
+one:
+  id: 1
+  name: "this is ferst post"
+  content: "tru la la, tra la la"
+two:
+  id: 2
+  name: "this is second post"
+  content: "tran tan tan, tra ta ta" 
